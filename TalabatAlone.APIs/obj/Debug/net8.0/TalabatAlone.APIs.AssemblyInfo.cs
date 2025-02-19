@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TalabatAlone.APIs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5a072ff75f5da3074b5d4c7933b98da7a9d58ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("TalabatAlone.APIs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TalabatAlone.APIs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

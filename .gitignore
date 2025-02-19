@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+TalabatAlone.APIs/obj/Debug/net8.0/TalabatAlone.APIs.AssemblyInfo.cs
+TalabatAlone.APIs/obj/Debug/net8.0/TalabatAlone.APIs.AssemblyInfoInputs.cache
+TalabatAlone.APIs/obj/Debug/net8.0/TalabatAlone.APIs.assets.cache
+TalabatAlone.APIs/obj/Debug/net8.0/TalabatAlone.APIs.GeneratedMSBuildEditorConfig.editorconfig
